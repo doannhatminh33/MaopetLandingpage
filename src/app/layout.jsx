@@ -18,6 +18,13 @@ export const metadata = {
     address: false,
     telephone: false,
   },
+  icons: {
+    icon: [
+      { url: '/assets/LogoOnly.png', type: 'image/png' }
+    ],
+    shortcut: '/assets/LogoOnly.png',
+    apple: '/assets/LogoOnly.png',
+  },
 }
 
 export default function RootLayout({ children }) {

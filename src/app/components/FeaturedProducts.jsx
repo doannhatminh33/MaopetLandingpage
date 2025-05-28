@@ -7,15 +7,15 @@ import Image from 'next/image';
 const products = [
   {
     name: "Hạt NutriPlan",
-    image: "src/assets/FeaturedProducts/Nutriplan.png",
+    image: "/assets/FeaturedProducts/Nutriplan.png",
   },
   {
     name: "Pate Ciao",
-    image: "src/assets/FeaturedProducts/PateCiao.png",
+    image: "/assets/FeaturedProducts/PateCiao.png",
   },
   {
     name: "Thanh cỏ mèo",
-    image: "src/assets/FeaturedProducts/CatGrassStick.png",
+    image: "/assets/FeaturedProducts/CatGrassStick.png",
   },
 ]
 

@@ -1,8 +1,8 @@
+'use client'
+
 import { useState } from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import Navbar from '@components/Navbar';
 import Header from "@components/Header"
 import Hero from "@components/Hero"
