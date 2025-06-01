@@ -17,15 +17,18 @@ import React from 'react'
 export default function Home() {
   return (
     <div className="font-sans">
-      <Header />
-      <Navbar />
-      <Hero />
-      <Categories />
-      <FeaturedProducts />
-      <Infoblocks />
-      <BestsellerProducts />
-      <NewsAndBlog />
-      <Footer />
+      <div className="px-[312px] mx-auto">
+        <Header />
+        <Navbar />
+        <Hero />
+        <Categories />
+        <FeaturedProducts />
+        <Infoblocks />
+        <BestsellerProducts />
+        <NewsAndBlog />
+        <Footer />
+      </div>
+      
     </div>
   );
 }

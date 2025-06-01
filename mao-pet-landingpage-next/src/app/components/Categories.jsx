@@ -13,7 +13,7 @@ const categories = [
 export default function Categories() {
   return (
     <section className="py-12 bg-gray-50 text-center">
-      <h2 className="text-2xl font-bold mb-6">Ngành hàng</h2>
+      <h1 className="text-5xl font-bold mb-6">Ngành hàng</h1>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6 px-6">
         {categories.map((cat, index) => (
           <div key={index} className="bg-white-50 rounded-xl shadow hover:scale-105 transition">

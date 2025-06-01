@@ -25,7 +25,7 @@ const news = [
 export default function NewsAndBlog() {
   return (
     <section className="py-12 bg-gray-50 text-center">
-      <h2 className="text-2xl font-bold mb-6">Tin tức</h2>
+      <h2 className="text-5xl font-bold mb-6">Tin tức</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-6">
         {news.map((item, index) => (
           <Link 

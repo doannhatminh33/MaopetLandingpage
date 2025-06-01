@@ -24,3 +24,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.hero-button-container {
+  position: absolute;
+  bottom: 2rem;
+  left: 30%;
+  transform: translateX(-50%);
+}

@@ -22,7 +22,7 @@ const products = [
 export default function FeaturedProducts() {
   return (
     <section className="py-12 bg-gray-50 text-center">
-      <h2 className="text-2xl font-bold mb-6">Sản phẩm nổi bật</h2>
+      <h2 className="text-5xl font-bold mb-6">Sản phẩm nổi bật</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-6">
         {products.map((product, index) => (
           <Link 
