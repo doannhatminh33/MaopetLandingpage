@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Cat Food (Premium)", "price": 150, "description": "High-quality dry food for cats." },
+  { "id": 2, "name": "Dog Toy (Squeaky Ball)", "price": 20, "description": "A durable squeaky toy for dogs." },
+  { "id": 3, "name": "Pet Shampoo (Gentle)", "price": 30, "description": "Gentle shampoo for cats and dogs." },
+  { "id": 4, "name": "Cat Litter (Clumping)", "price": 50, "description": "Clumping litter for cats." },
+  { "id": 5, "name": "Dog Treat (Biscuits)", "price": 25, "description": "Healthy biscuits for dogs." }
+] 
